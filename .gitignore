@@ -1,0 +1,15 @@
+# ОС
+.DS_Store
+Thumbs.db
+
+# Node.js
+/node_modules
+/dist
+
+# Docker
+*.log
+docker-compose.override.yml
+
+# .NET
+bin/
+obj/
